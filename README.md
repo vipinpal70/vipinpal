@@ -10,10 +10,10 @@
 # Vipin Pal
 ### Python Developer · Algorithmic Trading · AI Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_UPWORK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinpal70)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~01ea81f487400eab05)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipinpal7060@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://astutealgo.com)
+[![Portfolio](https://img.shields.io/badge/Live_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipinpal.com/)
 
 </div>
 
